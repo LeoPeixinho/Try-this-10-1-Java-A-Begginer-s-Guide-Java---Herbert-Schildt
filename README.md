@@ -1,18 +1,8 @@
-## Getting Started
+🚀 Welcome to My Java Project
+📚 Visão Geral
+Here I am learning Java through the book "Java, a guide for beginners, eighth edition" by Herbert Schildt.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+🎯 Objetivo do Exercício
+In this exercise, we are practicing an algorithm that compares two files and tells whether they are similar or different.
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Using SE (Structure/Logic) to compare files and point out differences if they exist, as proposed by the exercise.
